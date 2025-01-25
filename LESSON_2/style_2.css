@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    background-size: contain;
+    
+}
+.h1{
+    font-family: fantasy;
+    color: chartreuse;
+}
+.h2_1{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+.big_H{
+    font-size: 35px;
+    font-weight: 800;
+    color: chartreuse;
+}
